@@ -1,6 +1,6 @@
 /*
 
-For learning basic programming without downloading software you can use the following websites:
+For learning basic programming without downloading software to follow the lesson:
 
 *  Replit:  https://replit.com/
 *  CodeSandbox:  https://codesandbox.io/
@@ -11,28 +11,19 @@ For learning basic programming without downloading software you can use the foll
 // + is used to do addition.
 
 
-
 // - is use to do subtraction.
-
 
 
 //  * is used to do multiplication.
 
-
-
 // / is used to do division.
-
 
 
 // ** Is used to find the power of a number.
 
-
 // % Is used to find the remainder (Modules)
 
-
 // ++ Increments the value by a number.
-
-
 
 // -- Decrements the value by a number.
 
